@@ -1,0 +1,15 @@
+C:\Users\moham\source\repos\Blank\Blank\bin\Debug\net6.0\Blank.exe
+C:\Users\moham\source\repos\Blank\Blank\bin\Debug\net6.0\Blank.deps.json
+C:\Users\moham\source\repos\Blank\Blank\bin\Debug\net6.0\Blank.runtimeconfig.json
+C:\Users\moham\source\repos\Blank\Blank\bin\Debug\net6.0\Blank.dll
+C:\Users\moham\source\repos\Blank\Blank\bin\Debug\net6.0\Blank.pdb
+C:\Users\moham\source\repos\Blank\Blank\obj\Debug\net6.0\Blank.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Blank\Blank\obj\Debug\net6.0\Blank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\Blank\Blank\obj\Debug\net6.0\Blank.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\Blank\Blank\obj\Debug\net6.0\Blank.AssemblyInfo.cs
+C:\Users\moham\source\repos\Blank\Blank\obj\Debug\net6.0\Blank.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Blank\Blank\obj\Debug\net6.0\Blank.dll
+C:\Users\moham\source\repos\Blank\Blank\obj\Debug\net6.0\refint\Blank.dll
+C:\Users\moham\source\repos\Blank\Blank\obj\Debug\net6.0\Blank.pdb
+C:\Users\moham\source\repos\Blank\Blank\obj\Debug\net6.0\Blank.genruntimeconfig.cache
+C:\Users\moham\source\repos\Blank\Blank\obj\Debug\net6.0\ref\Blank.dll
